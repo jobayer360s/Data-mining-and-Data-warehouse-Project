@@ -1,5 +1,6 @@
 # Data-mining-and-Data-warehouse-Project
 
+
 # AI & Data Science Job Salary Analysis
 
 An ongoing academic research project focused on analyzing AI and Data Science job salary data using data analysis and data mining techniques.
@@ -19,8 +20,13 @@ This repository is currently maintained as a backup and development workspace. D
 
 * **MD. Jobayer Shaikh**
 * **Razia Fahmida Haque**
-* **Sifat Rahman Ahona**
 
+Department of Computer Science
+American International University-Bangladesh (AIUB)
+
+## Supervisor
+
+**Sifat Rahman Ahona**
 Department of Computer Science
 American International University-Bangladesh (AIUB)
 
